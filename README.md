@@ -1,4 +1,7 @@
 # File_Transfer_Protocol_Example
+
+# This project was done in colaboration with Neal Todd
+
 Server Client based FTP over a Python Socket connection
 
 This FTP works over a reestablished direct LAN connection, and does not support any encryption nor error detection/correction.
