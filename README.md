@@ -1,6 +1,6 @@
 # File_Transfer_Protocol_Example
 
-# This project was done in colaboration with Neal Todd
+# Credit to Neal Todd For working with me on this project
 
 Server Client based FTP over a Python Socket connection
 
